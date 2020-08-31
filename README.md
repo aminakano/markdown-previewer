@@ -22,6 +22,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-*Referemce*
-<https://www.freecodecamp.org/news/how-to-build-a-markdown-previewer-with-react-js/>
+*Reference:*
+- <https://www.freecodecamp.org/news/how-to-build-a-markdown-previewer-with-react-js/>
 
